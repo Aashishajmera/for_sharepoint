@@ -1,0 +1,10 @@
+{
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "@azure/msal-node": "^2.14.0",
+    "axios": "^1.7.7",
+    "express": "^4.21.0",
+    "msal": "^1.4.18"
+  }
+}
